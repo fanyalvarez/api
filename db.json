@@ -1,131 +1,58 @@
 {
-  "lugares": [
+  "products": [
     {
-      "id": 1,
-      "nombre": "Museo Universitario del Chopo",
-      "descripcion": "El edificio es sumamente interesante. Vale la pena visitar la Librería y ver una de las funciones del Cinematógrafo. El personal de la Librería, Taquilla y los custodios son muy amables, todos muestran una excelente actitud de servicio",
-      "estado": "Ciudad de México",
-      "ciudad": "Cuauhtémoc",
-      "colonia": "Sta María la Ribera",
-      "calle": "Dr. Enrique González Martínez",
-      "numero": 10,
-      "cp": "6400",
-      "like": 12,
-      "dislike": 23
+      "id": "4032",
+      "name": "Luffy",
+      "price": "60",
+      "image": "https://resources.claroshop.com/imgsplaza-sears/sears/?tp=p&id=1139802&t=original"
     },
     {
-      "id": 2,
-      "nombre": "Biblioteca Vasconcelos",
-      "descripcion": "La biblioteca Vasconcelos es un gigante con un archivo descomunal que, con seguridad, habrá un título entre sus anaqueles esperando a ser leído",
-      "estado": "Ciudad de México",
-      "ciudad": "Cuauhtémoc",
-      "colonia": "Buenavista",
-      "calle": "Eje 1 Nte.",
-      "numero": "S/N",
-      "cp": "6350",
-      "like": 20,
-      "dislike": 11
+      "id": "8f8c",
+      "name": "Zoro",
+      "price": "65",
+      "image": "https://nekonomicron.com/cdn/shop/files/063c67c855c54ec087783cba7903728dxl.webp?v=1694916379"
     },
     {
-      "like": 0,
-      "dislike": 0,
-      "nombre": "Cafeteria serena",
-      "descripcion": "Muy padre lugar. Y todo muy rico. Y todo muy barato. Disfrutas mucho el estar ahí. Lo recomiendo. Amé el restaurante, amo Gossip Girl ",
-      "calle": "1111",
-      "numero": "11",
-      "colonia": "11",
-      "ciudad": "111",
-      "estado": "11",
-      "cp": "02090",
-      "id": 3
-    }
-  ],
-  "comments": [
-    {
-      "comment": "Place 1 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/601",
-      "name": "Coraline Jones",
-      "id": 1,
-      "idPLace": 1
+      "id": "c67d",
+      "name": "Robin",
+      "price": "60",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdAVnfP1V-94EKZicEQyN1limXHlLhvxCMw&s"
     },
     {
-      "comment": "Place 1 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/590",
-      "name": "Wybie Lovat",
-      "id": 2,
-      "idPLace": 1
+      "id": "6284",
+      "name": "Nami",
+      "price": "70",
+      "image": "https://ss639.liverpool.com.mx/xl/1141647268.jpg"
     },
     {
-      "comment": "Place 2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/590",
-      "name": "Wybie Lovat",
-      "id": 3,
-      "idPLace": 2
+      "id": "32b0",
+      "name": "Sanji",
+      "price": "60",
+      "image": "https://nekonomicron.com/cdn/shop/files/d70bb7127d8f461eb92e783837e73b8axl.webp?v=1694916252"
     },
     {
-      "comment": "Place 2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/601",
-      "name": "Coraline Jones",
-      "id": 4,
-      "idPLace": 2
+      "id": "5d67",
+      "name": "Leonardo",
+      "price": "16",
+      "image": "https://m.media-amazon.com/images/I/619mcwuBSsL._AC_SL1500_.jpg"
     },
     {
-      "idPLace": "1",
-      "comment": "Place 1 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/382",
-      "name": "wdqdwqdq",
-      "id": 5
+      "id": "78a1",
+      "name": "Crocodile",
+      "price": "75",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdqzoVCt0dcQN7naY3u5bnAuneP6Bt0eScabt2KisGC-42BdVQE-rzyHnXnEt9EP4LcQ&usqp=CAU"
     },
     {
-      "idPLace": "2",
-      "comment": "Place 2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae labore autem quibusdam hic laboriosam ex a obcaecati libero enim numquam.",
-      "img": "https://picsum.photos/600",
-      "name": "Fany",
-      "id": 6
+      "id": "594a",
+      "name": "Miguel",
+      "price": "16",
+      "image": "https://m.media-amazon.com/images/I/71yLv8MqvbL._AC_SL1500_.jpg"
     },
     {
-      "idPLace": "3",
-      "comment": "dqwdqd",
-      "img": "https://picsum.photos/589",
-      "name": "Fany",
-      "id": 7
-    },
-    {
-      "idPLace": "3",
-      "comment": "dqw",
-      "img": "",
-      "name": "dqw",
-      "id": 8
-    },
-    {
-      "idPLace": "3",
-      "comment": "dqd",
-      "img": "https://picsum.photos/582",
-      "name": "Coraline Jones",
-      "id": 9
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "userName": "coralineJ",
-      "name": "coraline",
-      "lastName": "jones",
-      "password": 1111
-    },
-    {
-      "id": 2,
-      "userName": "wybieL",
-      "name": "Wybie",
-      "lastName": "Lovat",
-      "password": 2222
-    },
-    {
-      "userName": "fanalv",
-      "name": "Fany",
-      "lastName": "Alvarez",
-      "password": "3333",
-      "id": 3
+      "id": "e1da",
+      "name": "Ace",
+      "price": "70",
+      "image": "https://lacitemagique.com/upload/catalogue/image/0849803063580_____000.jpg.webp"
     }
   ]
 }
